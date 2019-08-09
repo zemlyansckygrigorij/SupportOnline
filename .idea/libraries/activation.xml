@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="activation">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/library/activation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/library/deploy.jar!/" />
+      <root url="jar://$PROJECT_DIR$/library/java-json.jar!/" />
+      <root url="jar://$PROJECT_DIR$/library/javax.mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/library/junit-4.13-beta-3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/library/mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/library/mysql-connector-java-5.0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/library/org.apache.commons.io.jar!/" />
+      <root url="jar://$PROJECT_DIR$/library/smtp-1.6.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/library/gson-2.6.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/library/java-json.jar!/" />
+    </SOURCES>
+  </library>
+</component>

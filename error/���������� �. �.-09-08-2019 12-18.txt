@@ -1,0 +1,8 @@
+java.io.FileNotFoundException: \\192.168.3.13\f$\Grigoriy\kruize\UPD\ListError.txt (Системе не удается найти указанный путь)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(FileInputStream.java:146)
+	at java.io.FileInputStream.<init>(FileInputStream.java:101)
+	at com.model.ListError.getListErrorFromFile(ListError.java:39)
+	at com.model.ListError.<init>(ListError.java:18)
+	at com.view.FormControl.<init>(FormControl.java:24)
+	at com.main.main(main.java:14)
